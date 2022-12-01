@@ -1,6 +1,6 @@
 # Niveau de prix des loyers du parc privé sur l'agglomération troyenne
 
-Dans un contexte où peu d'informations sur les niveaux de loyers pratiqués dans le parc privé existent, notamment en dehors des OLL, ce projet a pour but de donner à voir les prix pratiqués sur l'agglomération troyenne à partir des annonces en ligne.
+Dans un contexte où peu d'informations sur les niveaux de loyers pratiqués dans le parc privé existent, notamment en dehors des OLL (https://www.observatoires-des-loyers.org/), ce projet a pour but de donner à voir les prix pratiqués sur l'agglomération troyenne à partir des annonces en ligne.
 
 ![aperçu](https://github.com/jonathanDickelmann/loyers_parc_prive/blob/main/img/loyers.PNG)
 
